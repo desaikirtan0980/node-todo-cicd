@@ -4,4 +4,4 @@ services:
   web:
     image: "node-app-kirtan:latest"
     ports:
-      - "8000:8000"
+      - "5306:5306"
